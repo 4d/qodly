@@ -4,6 +4,11 @@ title: Release Notes
 ---
 
 
+## 4D 21 R4
+
+### Highlights
+
+- [Data table](./pageLoaders/components/datatable.md) and [Text](./pageLoaders/components/text.md) components now support [styled text contents](./pageLoaders/components/componentsBasics.md#styled-text-support). 
 
 ## 4D 21
 
